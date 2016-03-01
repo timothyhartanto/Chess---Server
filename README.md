@@ -6,7 +6,10 @@ You need to send the format manually from the server, once the connection is est
 
 Piece position format: <piece code><horizontal position><vertical position>[space]<piece code><horizontal position><vertical position>[space]<piece code><horizontal position><vertical position> etc...
 
-Note: there are only 10 pieces on this application
+Note: You need to run the server first before executing the app.
+Once the connection is established, you need to send in the input.
+
+there are only 10 pieces on this application
 Piece's code:
 K: White King
 Q: White Queen
