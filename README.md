@@ -10,17 +10,17 @@ Note: You need to run the server first before executing the app.
 Once the connection is established, you need to send in the input.
 
 there are only 10 pieces on this application
-Piece's code:
-K: White King
-Q: White Queen
-B: White Bishop
-N: White Knight
-R: White Rook
-k: Black King
-q: Black Queen
-b: Black Bishop
-n: Black Knight
-r: Black Rook
+Piece's code:</br>
+K: White King</br>
+Q: White Queen</br>
+B: White Bishop</br>
+N: White Knight</br>
+R: White Rook</br>
+k: Black King</br>
+q: Black Queen</br>
+b: Black Bishop</br>
+n: Black Knight</br>
+r: Black Rook</br>
 
 Example of data sent will be:
 Ka1 Qg3 Be6 Ne4 Rd1 kg6 qa4 bf5 ng1 rf3
